@@ -11,8 +11,8 @@
 
     <!-- Repos -->
     <!-- Device -->
-  <project path="device/samsung/trlte" name="android_device_samsung_trlte" remote="apq8084" />
-  <project path="device/samsung/trlte" name="android_device_samsung_trlte-common" remote="apq8084" />
+ <project name="apq8084/android_device_samsung_trlte" path="device/samsung/trlte" remote="github" revision="lineage-18.1" />
+  <project name="apq8084/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="lineage-18.1" />
     <!-- Device - Common -->
 
     
@@ -25,6 +25,7 @@
     <!-- Vendor - Common -->
 
     <!-- Hardware -->
+    <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-18.1" />
      <project name="apq8084/android_hardware_qcom_display" path="hardware/qcom-caf/apq8084/display" groups="pdk-qcom,qcom,qcom_display" revision="lineage-18.1-caf-apq8084" />
   <project name="apq8084/android_hardware_qcom_media" path="hardware/qcom-caf/apq8084/media" groups="pdk-qcom,qcom,qcom_media" revision="lineage-18.1-caf-apq8084" />
 
