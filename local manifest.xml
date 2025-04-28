@@ -20,7 +20,7 @@
     <project path="kernel/samsung/apq8084" name="android_kernel_samsung_apq8084" remote="apq8084" />
 
     <!-- Vendor -->
- <project path="vendor/samsungr" name="apq8084/proprietary_vendor_samsung" remote="apq8084" />
+ <project path="vendor/samsung" name="apq8084/proprietary_vendor_samsung" remote="apq8084" />
 
     <!-- Vendor - Common -->
 
