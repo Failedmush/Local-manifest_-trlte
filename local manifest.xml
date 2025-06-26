@@ -1,6 +1,4 @@
 <manifest>
-
-
     <!-- Remotes -->
     <remote name="Failedmush" fetch="https://github.com/failedmush" revision="lineage-22.2" />
     <!-- Device - Common -->
