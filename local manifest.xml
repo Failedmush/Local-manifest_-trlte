@@ -1,4 +1,4 @@
-cab<manifest>
+<manifest>
         <!-- Remote -->
         <remote name="TheMuppets" fetch="https://github.com/TheMuppets" clone-depth="lineage-22.2" />
         <remote name="LineageOS" fetch="https://github.com/LineageOS" clone-depth="lineage-22.2" />
