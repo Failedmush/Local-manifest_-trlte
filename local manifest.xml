@@ -1,8 +1,8 @@
-can<manifest>
+cab<manifest>
         <!-- Remote -->
         <remote name="TheMuppets" fetch="https://github.com/TheMuppets" clone-depth="lineage-22.2" />
         <remote name="LineageOS" fetch="https://github.com/LineageOS" clone-depth="lineage-22.2" />
-        <remote name="Failedmush" fetch="https://github.com/Failedmush" clone-depth="1" />
+        <remote name="Failedmush" fetch="https://github.com/Failedmush" clone-depth="lineage-22.2" />
         <remote name="RobertGarciaa" fetch="https://github.com/RobertGarciaa" clone-depth="15" />
         
   <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="Failedmush" revision="Evolutionx" />
